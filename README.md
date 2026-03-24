@@ -8,15 +8,15 @@ Presentation- https://drive.google.com/file/d/1Ow4ibUKz8csyS_qBfEG2CUCpYC-CSyoe/
 Dashboard- <img width="1170" height="659" alt="image" src="https://github.com/user-attachments/assets/4e6ab801-d46c-43c2-b332-22d2ffd325ac" />
 
 
-📊 Blinkit Customer Feedback Analysis
+Blinkit Customer Feedback Analysis
 
-🔍 Overview
+Overview
 
 This project analyzes customer feedback data from Blinkit using **SQL and Power BI** to understand customer satisfaction, identify problem areas, and generate actionable business insights.
 
 ---
 
-🎯 Objectives
+Objectives
 
 * Analyze customer ratings and feedback
 * Measure customer satisfaction levels
@@ -26,14 +26,14 @@ This project analyzes customer feedback data from Blinkit using **SQL and Power 
 
 ---
 
-🛠️ Tools & Technologies
+Tools & Technologies
 
 * **MySQL** – Data storage and querying
 * **Power BI** – Data visualization and dashboard
 * **CSV Dataset** – Raw data source
 
 
-📊 Key Analysis Performed
+Key Analysis Performed
 
 * Average Rating Calculation
 * Sentiment Distribution (Positive, Negative, Neutral)
@@ -44,17 +44,17 @@ This project analyzes customer feedback data from Blinkit using **SQL and Power 
 
 ---
 
-📈 Dashboard Features
+ Dashboard Features
 
-* ⭐ KPI Cards (Average Rating, Positive Ratio, Negative Count)
-* 🥧 Sentiment Distribution (Donut Chart)
-* 📊 Category-wise Analysis (Bar Chart)
-* 🚨 Problem Area Detection (Column Chart)
-* 📉 Rating Distribution
+*  KPI Cards (Average Rating, Positive Ratio, Negative Count)
+*  Sentiment Distribution (Donut Chart)
+*  Category-wise Analysis (Bar Chart)
+*  Problem Area Detection (Column Chart)
+*  Rating Distribution
 
 ---
 
-🔥 Key Insights
+ Key Insights
 
 * Majority of feedback is **positive**, indicating good customer satisfaction
 * **Delivery category** has the highest negative feedback
@@ -62,7 +62,7 @@ This project analyzes customer feedback data from Blinkit using **SQL and Power 
 * Most ratings fall between **3–5**, showing moderate satisfaction
 
 ---
-💡 Business Recommendations
+ Business Recommendations
 
 * Improve delivery efficiency and reduce delays
 * Enhance customer support services
@@ -70,7 +70,7 @@ This project analyzes customer feedback data from Blinkit using **SQL and Power 
 * Focus on reducing negative customer experiences
 
 ---
- 📂 Project Structure
+ Project Structure
 
 Blinkit-Feedback-Analysis/
 │
@@ -81,10 +81,8 @@ Blinkit-Feedback-Analysis/
 └── project_report.pdf
 
 ---
- 🚀 Conclusion
+Conclusion
 
 This project demonstrates how data analysis can help businesses understand customer behavior, identify weaknesses, and make data-driven decisions to improve overall performance.
 
 ---
-
-tudent
